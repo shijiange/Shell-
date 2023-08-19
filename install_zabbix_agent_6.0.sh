@@ -9,7 +9,7 @@
 #Copyright (C):     2022 All rights reserved
 #********************************************************************
 
-ZABBIX_SERVER=zabbix.wang.org
+ZABBIX_SERVER=zabbix.shijianphp.com
 ZABBIX_MAJOR_VER=6.0
 ZABBIX_VER=${ZABBIX_MAJOR_VER}-4
 
